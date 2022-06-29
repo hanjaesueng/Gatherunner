@@ -22,7 +22,7 @@ GatheRunner Swift Style Guide
 * * *
 
 ## 네이밍    
-+ 타입 및 프로토콜의 이름에는 PascalCase를 사용, 그 외 변수,함수등 다른 모든 이름에는 lowerCamelCase를 사용      
++ 타입 및 프로토콜의 이름에는 PascalCase를 사용하고, 그 외 변수,함수등 다른 모든 이름에는 lowerCamelCase를 사용한다.      
 
   <details>
   <summary>예시</summary>
