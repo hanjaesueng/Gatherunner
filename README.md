@@ -65,7 +65,7 @@ GatheRunner Swift Style Guide
   // ...
     }
   }
-  
+
   // RIGHT
   class URLValidator {
   func isValidURL(_ url: URL) -> Bool {
