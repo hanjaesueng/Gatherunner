@@ -81,18 +81,5 @@ GatheRunner Swift Style Guide
   </code>
   </details>  
           
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
+* * *
 
